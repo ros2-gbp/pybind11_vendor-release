@@ -1,3 +1,26 @@
+## pybind11_vendor (rolling) - 3.1.2-1
+
+The packages in the `pybind11_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling pybind11_vendor` on `Tue, 16 Apr 2024 13:40:29 -0000`
+
+The `pybind11_vendor` package was released.
+
+Version of package(s) in repository `pybind11_vendor`:
+
+- upstream repository: https://github.com/ros2/pybind11_vendor.git
+- release repository: https://github.com/ros2-gbp/pybind11_vendor-release.git
+- rosdistro version: `3.1.1-2`
+- old version: `3.1.1-2`
+- new version: `3.1.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## pybind11_vendor (rolling) - 3.1.1-1
 
 The packages in the `pybind11_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling pybind11_vendor` on `Tue, 11 Jul 2023 19:06:15 -0000`
