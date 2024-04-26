@@ -2,6 +2,9 @@
 Changelog for package pybind11_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.2.0 (2024-04-26)
+------------------
+
 3.1.2 (2024-04-16)
 ------------------
 * Update to pybind11 2.11.1 (`#28 <https://github.com/ros2/pybind11_vendor/issues/28>`_)
